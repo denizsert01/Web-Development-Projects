@@ -1,0 +1,40 @@
+div > a {
+    color: #ee93b4;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.hello {
+  font-family: 'Borel', cursive;
+  font-family: 'Libre Baskerville', serif;
+}
+.gradient-background{
+    background: linear-gradient(300deg, #ffe100, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .this-col {
+    padding: 30px;
+  }
