@@ -7,6 +7,7 @@ Topics include:
 - HTML5
 - CSS3
 - Flexbox
+- Bootstrap
 - Responsive Design
 - DOM Manipulation
 - JavaScript
